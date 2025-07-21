@@ -89,7 +89,7 @@ Con SQL puedes:
 ## 📊 Progreso Visual
 
 <div align="center">
-  <img src="https://progress-bar.dev/40/?title=Aprendizaje%20SQL&width=300&color=ff4c68&suffix=%25" alt="progreso aprendizaje SQL">
+  <img src="https://img.shields.io/badge/Aprendizaje%20SQL-40%25-ff4c68?style=for-the-badge" alt="progreso aprendizaje SQL">
 </div>
 
 ---
@@ -98,11 +98,11 @@ Con SQL puedes:
 
 | Herramienta         | Icono | Uso principal                      |
 |---------------------|-------|------------------------------------|
-| MySQL               | ![MySQL](https://cdn-icons-png.flaticon.com/512/528/528260.png) | Motor de base de datos relacional |
-| PostgreSQL          | ![PostgreSQL](https://cdn-icons-png.flaticon.com/512/5968/5968342.png) | Motor de base de datos avanzado   |
-| SQLite              | ![SQLite](https://cdn-icons-png.flaticon.com/512/5968/5968369.png) | BD ligera para pruebas locales    |
-| DBeaver             | ![DBeaver](https://cdn-icons-png.flaticon.com/512/3343/3343935.png) | Cliente visual para trabajar BD   |
-| DbDiagram.io        | ![Diagram](https://cdn-icons-png.flaticon.com/512/4072/4072571.png) | Modelado visual de relaciones     |
+| MySQL               | <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" width="24"/> | Motor de base de datos relacional |
+| PostgreSQL          | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="24"/> | Motor de base de datos avanzado   |
+| SQLite              | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968369.png" width="24"/> | BD ligera para pruebas locales    |
+| DBeaver             | <img src="https://cdn-icons-png.flaticon.com/512/3343/3343935.png" width="24"/> | Cliente visual para trabajar BD   |
+| DbDiagram.io        | <img src="https://cdn-icons-png.flaticon.com/512/4072/4072571.png" width="24"/> | Modelado visual de relaciones     |
 
 ---
 
@@ -126,7 +126,7 @@ Desarrollador en formación, curioso por naturaleza y amante de la tecnología.
 ---
 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4086/4086679.png" width="60" alt="terminal icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4086/4086679.png" width="50" alt="terminal icon"/>
   <br><br>
   <strong>“Una base de datos bien diseñada es invisible para el usuario, pero esencial para el sistema.”</strong>
 </div>
