@@ -1,7 +1,7 @@
 # 📚 Bases de Datos & SQL — Mi aprendizaje inicial
 
 <div align="center">
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/000000/external-database-it-services-flat-icons-inmotus-design.png" alt="database icon"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2920/2920322.png" width="80" alt="database icon"/>
 </div>
 
 ---
@@ -25,6 +25,10 @@ Una **base de datos** es una colección organizada de información o datos estru
 ---
 
 ## 💡 ¿Qué es SQL?
+
+<div align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" width="40" alt="sql icon"/>
+</div>
 
 **SQL** (Structured Query Language) es el lenguaje estándar para interactuar con bases de datos relacionales.
 
@@ -72,32 +76,33 @@ Con SQL puedes:
 
 ## 🧠 Conceptos clave
 
-- 🔹 Bases de datos relacionales  
-- 🔹 Tablas, registros y campos  
-- 🔹 Claves primarias y foráneas  
-- 🔹 Relaciones uno a muchos / muchos a muchos  
-- 🔹 Subconsultas y agrupaciones  
-- 🔹 Normalización (1FN, 2FN, 3FN)  
-- 🔹 Procedimientos almacenados y vistas  
+- 🗃️ Bases de datos relacionales  
+- 🧱 Tablas, registros y campos  
+- 🔑 Claves primarias y foráneas  
+- 🔁 Relaciones uno a muchos / muchos a muchos  
+- 🔍 Subconsultas y agrupaciones  
+- ⚙️ Normalización (1FN, 2FN, 3FN)  
+- 🧩 Procedimientos almacenados y vistas  
 
 ---
 
 ## 📊 Progreso Visual
 
 <div align="center">
-  <img src="https://progress-bar.dev/40/?title=Aprendizaje%20SQL&width=300&color=ff4c68&suffix=%25">
+  <img src="https://progress-bar.dev/40/?title=Aprendizaje%20SQL&width=300&color=ff4c68&suffix=%25" alt="progreso aprendizaje SQL">
 </div>
 
 ---
 
 ## 🧪 Herramientas recomendadas
 
-| Herramienta          | Uso principal                        |
-|----------------------|--------------------------------------|
-| 🐬 MySQL/PostgreSQL  | Motor de base de datos               |
-| 🧪 DBeaver            | Cliente visual para gestión de BD    |
-| 🧊 SQLite             | Base de datos ligera para pruebas    |
-| 🧠 DbDiagram.io       | Modelado visual de esquemas          |
+| Herramienta         | Icono | Uso principal                      |
+|---------------------|-------|------------------------------------|
+| MySQL               | ![MySQL](https://cdn-icons-png.flaticon.com/512/528/528260.png) | Motor de base de datos relacional |
+| PostgreSQL          | ![PostgreSQL](https://cdn-icons-png.flaticon.com/512/5968/5968342.png) | Motor de base de datos avanzado   |
+| SQLite              | ![SQLite](https://cdn-icons-png.flaticon.com/512/5968/5968369.png) | BD ligera para pruebas locales    |
+| DBeaver             | ![DBeaver](https://cdn-icons-png.flaticon.com/512/3343/3343935.png) | Cliente visual para trabajar BD   |
+| DbDiagram.io        | ![Diagram](https://cdn-icons-png.flaticon.com/512/4072/4072571.png) | Modelado visual de relaciones     |
 
 ---
 
@@ -121,7 +126,7 @@ Desarrollador en formación, curioso por naturaleza y amante de la tecnología.
 ---
 
 <div align="center">
-  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-sql-data-analytics-flaticons-flat-flat-icons.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4086/4086679.png" width="60" alt="terminal icon"/>
   <br><br>
   <strong>“Una base de datos bien diseñada es invisible para el usuario, pero esencial para el sistema.”</strong>
 </div>
